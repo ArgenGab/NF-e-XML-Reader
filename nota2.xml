@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:nfeProc xmlns:ns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <ns:NFe>
+    <ns:infNFe>
+      <ns:ide>
+        <ns:cUF>35</ns:cUF>
+        <ns:nNF>1004</ns:nNF>
+        <ns:dhEmi>2024-04-01T09:15:00-03:00</ns:dhEmi>
+      </ns:ide>
+      <ns:emit>
+        <ns:CNPJ>55998877000166</ns:CNPJ>
+        <ns:xNome>Tech Loja Online LTDA</ns:xNome>
+      </ns:emit>
+      <ns:dest>
+        <ns:CPF>12312312399</ns:CPF>
+        <ns:xNome>Lucas Andrade</ns:xNome>
+      </ns:dest>
+      <ns:det nItem="1">
+        <ns:prod>
+          <ns:cProd>804</ns:cProd>
+          <ns:xProd>Teclado Mecânico RGB</ns:xProd>
+          <ns:qCom>1.0000</ns:qCom>
+          <ns:vUnCom>289.90</ns:vUnCom>
+        </ns:prod>
+      </ns:det>
+      <ns:total>
+        <ns:ICMSTot>
+          <ns:vNF>289.90</ns:vNF>
+        </ns:ICMSTot>
+      </ns:total>
+    </ns:infNFe>
+  </ns:NFe>
+</ns:nfeProc>

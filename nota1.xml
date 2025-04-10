@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns:nfeProc xmlns:ns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <ns:NFe>
+    <ns:infNFe>
+      <ns:ide>
+        <ns:cUF>35</ns:cUF>
+        <ns:nNF>1001</ns:nNF>
+        <ns:dhEmi>2024-03-10T10:00:00-03:00</ns:dhEmi>
+      </ns:ide>
+      <ns:emit>
+        <ns:CNPJ>11222333000181</ns:CNPJ>
+        <ns:xNome>Comercial São José LTDA</ns:xNome>
+      </ns:emit>
+      <ns:dest>
+        <ns:CPF>12345678901</ns:CPF>
+        <ns:xNome>Maria Oliveira</ns:xNome>
+      </ns:dest>
+      <ns:det nItem="1">
+        <ns:prod>
+          <ns:cProd>101</ns:cProd>
+          <ns:xProd>Café em pó 500g</ns:xProd>
+          <ns:qCom>1.0000</ns:qCom>
+          <ns:vUnCom>9.50</ns:vUnCom>
+        </ns:prod>
+      </ns:det>
+      <ns:total>
+        <ns:ICMSTot>
+          <ns:vNF>9.50</ns:vNF>
+        </ns:ICMSTot>
+      </ns:total>
+    </ns:infNFe>
+  </ns:NFe>
+</ns:nfeProc>
