@@ -1,5 +1,5 @@
 import pytest
-from project import validate, parser, format
+from nfe_reader import validate, parser, format
 
 def main():
     test_validate()
